@@ -1,7 +1,5 @@
 # LensGuard: Advanced AI-Driven Precision in Optical Lens Quality Assurance
 
-https://github.com/ashoksuthar14/LensGuard/blob/main/FlowChhart.png
-
 
 ##Deployed Web Application
 
